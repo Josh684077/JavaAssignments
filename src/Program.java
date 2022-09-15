@@ -11,6 +11,10 @@ public class Program {
 
     void start()
     {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Please enter the size of your group and press [ENTER]");
+        Integer numberOfStudents = scanner.nextInt();
 
     }
 }

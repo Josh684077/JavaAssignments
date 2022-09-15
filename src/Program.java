@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class Program {
 
-    static void main(){
+    public static void main(String[] args)
+    {
         Program myProgram = new Program();
         myProgram.start();
 
